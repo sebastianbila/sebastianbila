@@ -14,7 +14,6 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I'm currently working on an application that helps users **track and manage their training progress** more easily – currently available as a **Telegram bot**
 - 🚀 I love building tools that simplify real-life workflows and deliver real value
 - ⚡ Fun fact: I can debug code faster with coffee ☕
 
