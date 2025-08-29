@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/sebastianbila"><img src="https://img.shields.io/github/followers/sebastianbila?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://www.linkedin.com/in/sebastianbila-s"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sebastianbila.sw@examplegmail.com"><img src="https://img.shields.io/badge/Email-sebastian@example.com-red?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:sebastianbila.sw@gmail.com"><img src="https://img.shields.io/badge/Email-sebastian@example.com-red?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
